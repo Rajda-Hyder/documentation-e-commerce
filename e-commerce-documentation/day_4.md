@@ -1412,10 +1412,10 @@ export default CheckoutHeader;
 
 ### 3.3 Best Practices Followed
 
-✅ Code Reusability → Created separate ProductCard, ProductList, and SearchBar components.
-✅ Performance Optimization → Used server-side fetching (getStaticProps) where needed.
-✅ Error Handling → Handled missing data with default values ("No description available").
-✅ SEO Optimization → Used generateMetadata() in Next.js 15 for dynamic SEO metadata.
+- ✅ Code Reusability → Created separate ProductCard, ProductList, and SearchBar components.
+- ✅ Performance Optimization → Used server-side fetching (getStaticProps) where needed.
+- ✅ Error Handling → Handled missing data with default values ("No description available").
+- ✅ SEO Optimization → Used generateMetadata() in Next.js 15 for dynamic SEO metadata.
 
 
 
